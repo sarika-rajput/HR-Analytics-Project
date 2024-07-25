@@ -1,10 +1,12 @@
-# HR-Analytics-Project
+# HR Analytics Project
 
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
 - [dataset details](#dataset-details)
 - [KPI'S](#kpis)
+- [Tableau Dashboard](#tableau-dashboard)
+- [Power Bi Dashboard](#power-bi-dashboard)
 - [Insights](#insights)
 - [Conclusion](#conclusion)
 
@@ -36,6 +38,14 @@ HR Analytics involves analyzing human resource (HR) data to enhance workforce ma
 - Job Role Vs Work life balance
 
 - Attrition rate Vs Year since last promotion relation
+
+## Tableau Dashboard
+  
+  ![tableau HR analytics](https://github.com/user-attachments/assets/8b088ccf-ebee-4c1e-af23-52d488c5e58f)
+
+## Power Bi Dashboard
+
+![power bi dashboard ss](https://github.com/user-attachments/assets/b3c065ac-0395-4db0-9372-98cdc164e4ea)
 
 
 ## Insights 
