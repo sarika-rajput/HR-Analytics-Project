@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
-- [dataset details](#dataset-details)
+- [Dataset details](#dataset-details)
 - [KPI'S](#kpis)
 - [Tableau Dashboard](#tableau-dashboard)
 - [Power Bi Dashboard](#power-bi-dashboard)
@@ -14,7 +14,7 @@
 
 HR Analytics involves analyzing human resource (HR) data to enhance workforce management and drive strategic decision-making. The HR Analytics Dashboard is a visual tool that offers deep insights into our workforce, enabling data-driven decisions to improve employee satisfaction and retention. By using Tableau, Power BI, Excel, and SQL, the dashboard provides a user-friendly interface to monitor key metrics such as employee engagement, turnover, retention, and productivity in real-time. SQL is used to extract, transform, and load (ETL) data from various sources into a unified database, ensuring accurate and up-to-date information for analysis. The dashboard offers a thorough understanding of attrition trends, helping HR professionals and decision-makers track performance, identify trends, and customize the dashboard to suit specific needs and preferences, ultimately enhancing workforce management and decision-making.
 
-## dataset details
+## Dataset details
 - Domain : HR Analytics
 
 - Project Name: Employee Retention
