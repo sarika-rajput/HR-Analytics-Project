@@ -17,8 +17,8 @@ HR Analytics involves analyzing human resource (HR) data to enhance workforce ma
 ## Dataset details
 - Domain : HR Analytics
 
-- Project Name: Employee Retention
-
+- Project Name: HR Analytics
+  
 - Dataset Name: HR_1 & HR_2
 
 - Dataset Type: Excel Data
